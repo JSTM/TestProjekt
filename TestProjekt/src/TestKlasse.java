@@ -5,6 +5,7 @@ public class TestKlasse {
 		
 		
 //		en fin kommentar
+//		shålålålå
 		
 	}
 	
